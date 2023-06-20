@@ -10,8 +10,7 @@ const firebaseConfig = {
   projectId: "reddit-clone-94704",
   storageBucket: "reddit-clone-94704.appspot.com",
   messagingSenderId: "945291152265",
-  appId: "1:945291152265:web:d3349c5dad018b4ab7af58",
-  measurementId: "G-Y3RH758693"
+  appId: "1:945291152265:web:d3349c5dad018b4ab7af58"
 };
 
 // Initialize Firebase
