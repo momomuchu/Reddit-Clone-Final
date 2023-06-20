@@ -5,12 +5,13 @@ import { getStorage } from "firebase/storage";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
-  authDomain: process.env.NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN,
-  projectId: process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID,
-  storageBucket: process.env.NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET,
-  messagingSenderId: process.env.NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID,
-  appId: process.env.NEXT_PUBLIC_FIREBASE_APP_ID,
+  apiKey: "AIzaSyDdE8do0KIpCeGlK3jLJr6VfblNUvFeBmo",
+  authDomain: "reddit-clone-94704.firebaseapp.com",
+  projectId: "reddit-clone-94704",
+  storageBucket: "reddit-clone-94704.appspot.com",
+  messagingSenderId: "945291152265",
+  appId: "1:945291152265:web:d3349c5dad018b4ab7af58",
+  measurementId: "G-Y3RH758693"
 };
 
 // Initialize Firebase
